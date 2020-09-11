@@ -1,5 +1,6 @@
 # adventure-game-demo
 Acceptance Criteria
+
 Part 1:
 ----------------------
 Setup the Adventure game as per admin requirements.
